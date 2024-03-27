@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains my personal implementations of algorithms and protocols from the book *Proofs, Arguments, and Zero-Knowledge* by Justin Thaler. As part of my journey to deepen my understanding of the subject, I have started to put theory into practice by coding these concepts. This work is intended as a study aid and a practical exploration of the book's material.
+This repository contains my personal implementations of algorithms and protocols from the book *Proofs, Arguments, and Zero-Knowledge* by Justin Thaler. As part of my studying to deepen my understanding of the subject, I have started to put theory into practice by coding these concepts. This work is intended as a study aid and a practical exploration of the book's material.
 
 ## Disclaimer
 
